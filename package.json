@@ -1,6 +1,6 @@
 {
   "name": "@e-sites/stylelint-config-esites",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "E-sites shareable config for stylelint",
   "keywords": [
     "stylelint",

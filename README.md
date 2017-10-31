@@ -4,19 +4,19 @@ The E-sites shareable config for stylelint
 ## Installation
 
 ```bash
-npm install stylelint-config-esites --save-dev
+npm install @e-sites/stylelint-config-esites --save-dev
 ```
 
 ```bash
-yarn add stylelint-config-esites --dev
+yarn add @e-sites/stylelint-config-esites --dev
 ```
 
 ## Usage
 
-If you've installed `stylelint-config-esites` locally within your project, just set your `stylelint` config to:
+If you've installed `@e-sites/stylelint-config-esites` locally within your project, just set your `stylelint` config to:
 
 ```json
 {
-  "extends": "stylelint-config-esites"
+  "extends": "@e-sites/stylelint-config-esites"
 }
 ```

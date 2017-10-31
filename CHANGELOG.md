@@ -1,3 +1,7 @@
+# 0.0.3
+
+-   Changed dependencies to peerDependencies
+
 # 0.0.2
 
 -   Updated readme docs

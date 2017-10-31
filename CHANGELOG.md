@@ -1,3 +1,7 @@
+# 1.0.0
+
+-   Mayor release
+
 # 0.0.3
 
 -   Changed dependencies to peerDependencies

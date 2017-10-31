@@ -4,11 +4,11 @@ The E-sites shareable config for stylelint
 ## Installation
 
 ```bash
-npm install @e-sites/stylelint-config-esites --save-dev
+npm install @e-sites/stylelint-config-esites stylelint stylelint-scss --save-dev
 ```
 
 ```bash
-yarn add @e-sites/stylelint-config-esites --dev
+yarn add @e-sites/stylelint-config-esites stylelint stylelint-scss --dev
 ```
 
 ## Usage

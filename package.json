@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-esites",
+  "name": "@esites/stylelint-config-esites",
   "version": "0.0.1",
   "description": "E-sites shareable config for stylelint",
   "keywords": [
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/e-sites/stylelint-config-esites.git"
+    "url": "git+https://github.com/e-sites/stylelint-config-esites.git"
   },
   "main": "index.js",
   "files": [
@@ -22,5 +22,13 @@
   "dependencies": {
     "stylelint": "^8.2.0",
     "stylelint-scss": "^2.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/e-sites/stylelint-config-esites/issues"
+  },
+  "homepage": "https://github.com/e-sites/stylelint-config-esites#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

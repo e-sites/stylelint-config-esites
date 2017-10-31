@@ -19,7 +19,9 @@
   "files": [
     "index.js"
   ],
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
     "stylelint": "^8.2.0",
     "stylelint-scss": "^2.1.0"
   },
@@ -27,7 +29,6 @@
     "url": "https://github.com/e-sites/stylelint-config-esites/issues"
   },
   "homepage": "https://github.com/e-sites/stylelint-config-esites#readme",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

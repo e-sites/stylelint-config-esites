@@ -1,3 +1,7 @@
+# 1.0.1
+
+-   Updated peer dependencies
+
 # 1.0.0
 
 -   Mayor release
